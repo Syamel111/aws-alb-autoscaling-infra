@@ -88,14 +88,6 @@ terraform destroy
 
 ---
 
-## 📸 Example Output
-
-![example](https://raw.githubusercontent.com/Syamel111/aws-alb-autoscaling-infra/main/screenshot.png)
-
-> *(Optional: upload screenshot to GitHub and it will auto-preview here)*
-
----
-
 ## 🔒 Security
 
 * `.gitignore` is configured to avoid committing Terraform state and secrets
