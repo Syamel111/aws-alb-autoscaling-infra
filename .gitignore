@@ -1,0 +1,30 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Sensitive variable overrides
+terraform.tfvars
+
+# .terraform directory (plugins, caches)
+.terraform/
+
+# Plan output
+*.tfplan
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Sensitive variable overrides
+terraform.tfvars
+
+# .terraform directory (plugins, caches)
+.terraform/
+
+# Plan output
+*.tfplan
