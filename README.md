@@ -99,5 +99,3 @@ terraform destroy
 ## 📌 Author
 
 Built by [Syamel Amri](https://github.com/Syamel111) as part of a 2-month AWS DevOps Bootcamp.
-
-```
