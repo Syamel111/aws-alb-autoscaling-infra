@@ -2,7 +2,8 @@
 # AWS ALB + EC2 Auto Scaling Infrastructure (Terraform Project)
 
 This project provisions a **highly available, scalable web application infrastructure** using Terraform and AWS services.
-It simulates a real-world production environment with EC2 instances behind an Application Load Balancer (ALB) and managed through an Auto Scaling Group.
+It simulates a real-world production environment with EC2 instances behind an Application Load Balancer
+(ALB) and managed through an Auto Scaling Group.
 
 ---
 
