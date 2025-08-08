@@ -1,4 +1,3 @@
-````md
 # AWS ALB + EC2 Auto Scaling Infrastructure (Terraform Project)
 
 This project provisions a **highly available, scalable web application infrastructure** using Terraform and AWS services.
